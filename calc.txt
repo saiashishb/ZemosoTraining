@@ -8,7 +8,7 @@ Sub{
 
 Mul{
 
-Return a*b
+Return a*b;
 
 }
 
