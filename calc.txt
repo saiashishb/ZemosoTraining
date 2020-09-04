@@ -12,5 +12,7 @@ Return a*b;
 
 }
 
-Del{
+Div{
+Return a/b;
+
 }
